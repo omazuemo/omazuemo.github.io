@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://omazuemo.github.io/KTd/sitemap_index.txt
+Sitemap: https://omazuemo.github.io/bLJ/sitemap_index.txt
+Sitemap: https://omazuemo.github.io/dOo/sitemap_index.txt
+Sitemap: https://omazuemo.github.io/fFR/sitemap_index.txt
